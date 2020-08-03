@@ -1,0 +1,13 @@
+.table{
+    margin-top:5px;
+    border-top:1px solid rgba(63, 63, 63, 0.7);
+    padding-top:5px;
+}
+.ButtonGroup{
+    margin-left: 5px;
+    border-bottom: 1px solid rgba(0, 0, 255, 0.7);
+}
+.footer{
+    float: left;
+    margin-left:5px;
+}
